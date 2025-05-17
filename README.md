@@ -1,4 +1,4 @@
-# 👋 Hi, I'm RabbitDaCoder59!
+# 👋 Hi, I'm Edeh Chinedu Daniel (RabbitDaCoder)!
 
 I'm a passionate **Full-Stack Web Developer** building modern web applications with:
 
