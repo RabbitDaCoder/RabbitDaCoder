@@ -93,6 +93,7 @@ Here are some of my public repositories (showing 10 of 67 total repos):
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![Twitter](https://img.shields.io/badge/X-000?logo=firefox&logoColor=white)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)
 
 ---
