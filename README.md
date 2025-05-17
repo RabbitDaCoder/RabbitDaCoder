@@ -10,7 +10,7 @@ I'm a passionate **Full-Stack Web Developer** building modern web applications w
 - 🧪 Git | GitHub | REST APIs
 - 🧰 Postman | VS Code | Vite
 - 📦 NPM | Yarn
-- 📚 Learning: TypeScript | Next.js | Docker
+- 📚 Learning: TypeScript | Next.js | Docker | Python | IOT | PHP | C++ | Senior Developer |
 
 ---
 
@@ -23,6 +23,8 @@ I'm a passionate **Full-Stack Web Developer** building modern web applications w
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+<img width="12" />
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
@@ -87,6 +89,14 @@ Here are some of my public repositories (showing 10 of 67 total repos):
 ![RabbitDaCoder59's GitHub stats](https://github-readme-stats.vercel.app/api?username=RabbitDaCoder59&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RabbitDaCoder59&layout=compact&theme=tokyonight)
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/RabbitDaCoder59/count.svg?"  />
+</div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/RabbitDaCoder59/RabbitDaCoder59/output/snake.svg" alt="Snake animation" />
+
 ---
 
 ## 🤝 Let's Connect
@@ -100,9 +110,15 @@ Here are some of my public repositories (showing 10 of 67 total repos):
 
 ## 📝 About Me
 
+<img align="left" height="155" src="https://pbs.twimg.com/profile_images/1908550852651954176/-vF_eWEn_400x400.jpg"  />
+
 I'm a self-motivated developer focused on building real-world web applications and learning new technologies.  
 I enjoy challenging myself with new projects and sharing what I learn along the way.
 
 > *"Building for the web with passion, curiosity, and caffeine."*
+
+<div align="left">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=313nbvs7aa4duhg7ygxqzmwt3pvu&count=4" alt="Spotify recently played"  />
+</div>
 
 <sub>✨ This README was generated to give a quick snapshot of my GitHub profile. For more, check out my repositories page!</sub>
