@@ -1,6 +1,33 @@
 # 👋 Hi, I'm RabbitDaCoder59!
 
-Welcome to my GitHub profile! I'm passionate about web development and love building projects using JavaScript, React, and modern web technologies. Here you'll find a showcase of my learning journey, side projects, and experiments.
+I'm a passionate **Full-Stack Web Developer** building modern web applications with:
+
+- 🌐 HTML | CSS | JavaScript
+- ⚛️ React.js
+- 🧠 Node.js | Express.js
+- 🛢 MongoDB
+- 💅 Tailwind CSS | Bootstrap
+- 🧪 Git | GitHub | REST APIs
+- 🧰 Postman | VS Code | Vite
+- 📦 NPM | Yarn
+- 📚 Learning: TypeScript | Next.js | Docker
+
+---
+
+## 🚀 Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
 
@@ -55,18 +82,18 @@ Here are some of my public repositories (showing 10 of 67 total repos):
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-> *You can add a GitHub stats card here! Example:*
-
-![RabbitDaCoder59's GitHub stats](https://github-readme-stats.vercel.app/api?username=RabbitDaCoder59&show_icons=true&theme=radical)
+![RabbitDaCoder59's GitHub stats](https://github-readme-stats.vercel.app/api?username=RabbitDaCoder59&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RabbitDaCoder59&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Contact & Links
+## 🤝 Let's Connect
 
-- GitHub: [@RabbitDaCoder59](https://github.com/RabbitDaCoder59)
-<!-- Add your LinkedIn, Twitter, personal website, or email if you want! -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)
 
 ---
 
@@ -75,6 +102,6 @@ Here are some of my public repositories (showing 10 of 67 total repos):
 I'm a self-motivated developer focused on building real-world web applications and learning new technologies.  
 I enjoy challenging myself with new projects and sharing what I learn along the way.
 
----
+> *"Building for the web with passion, curiosity, and caffeine."*
 
 <sub>✨ This README was generated to give a quick snapshot of my GitHub profile. For more, check out my repositories page!</sub>
