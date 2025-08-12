@@ -59,11 +59,7 @@ Here are some of my public repositories:
 
 - [**NoteApp Server**](https://github.com/RabbitDaCoder/NoteApp_Server)  
   *JavaScript / Node.js / Express / MongoDB*  
-  Backend API for NoteApp, handling authentication, note management, and file uploads.
-
-- [**Netflix Clone**](https://github.com/RabbitDaCoder/NetflixClone)  
-  *JavaScript / HTML / CSS*  
-  A Netflix UI replica fetching real movie data via API.
+  Backend API for NoteApp, handling authentication, note management, and file uploads.eplica fetching real movie data via API.
 
 - [**Fresco**](https://github.com/RabbitDaCoder/Fresco)  
   *JavaScript / React*  
