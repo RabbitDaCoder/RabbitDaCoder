@@ -84,16 +84,16 @@ Here are some of my public repositories:
 
 ## 📈 GitHub Stats
 
-![RabbitDaCoder59's GitHub stats](https://github-readme-stats.vercel.app/api?username=RabbitDaCoder59&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RabbitDaCoder59&layout=compact&theme=tokyonight&cache_seconds=1800)
+![RabbitDaCoder59's GitHub stats](https://github-readme-stats.vercel.app/api?username=RabbitDaCoder&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RabbitDaCoder&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/RabbitDaCoder59/count.svg?" />
+  <img src="https://profile-counter.glitch.me/RabbitDaCoder/count.svg?" />
 </div>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RabbitDaCoder59/RabbitDaCoder59/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RabbitDaCoder/RabbitDaCoder/output/snake.svg" alt="Snake animation" />
 
 ---
 
