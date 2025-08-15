@@ -3,14 +3,14 @@
 I'm a passionate **Full-Stack Web Developer** building modern web applications with:
 
 - 🌐 HTML | CSS | JavaScript | TypeScript
-- ⚛️ React.js
+- ⚛️ React.js 
 - 🧠 Node.js | Express.js 
 - 🛢 MongoDB | MySQL
 - 💅 Tailwind CSS | Bootstrap | Framer Motion
 - 🧪 Git | GitHub | REST APIs
 - 🧰 Postman | VS Code | Vite
 - 📦 NPM | Yarn
-- 📚 Learning: TypeScript | Next.js | Docker | PHP | Python | IoT | C++ | Java | Senior Developer Skills
+- 📚 Learning: TypeScript | Next.js | Docker | PHP | Python | IoT | C++ | Java | AI | Rag Agent | Senior Developer Skills
 
 ---
 
