@@ -10,7 +10,7 @@ I'm a passionate **Full-Stack Web Developer** building modern web applications w
 - 🧪 Git | GitHub | REST APIs
 - 🧰 Postman | VS Code | Vite
 - 📦 NPM | Yarn
-- 📚 Learning: TypeScript | Next.js | Docker | PHP | Python | IoT | C++ | Java | AI | Rag Agent | Senior Developer Skills
+- 📚 Learning: TypeScript | Next.js | Docker | PHP | Python | IoT | C++ | C | c# | Java | AI | Rag Agent | Senior Developer Skills
 
 ---
 
