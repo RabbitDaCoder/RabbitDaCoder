@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Edeh Chinedu Daniel (RabbitDaCoder)!
 
-I'm a passionate **Full-Stack Web Developer** building modern web applications with:
+I'm a **Full-Stack Web Developer** building modern web applications with:
 
 - 🌐 HTML | CSS | JavaScript | TypeScript
 - ⚛️ React.js 
