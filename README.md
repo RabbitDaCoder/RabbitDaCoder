@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Edeh Chinedu Daniel (RabbitDaCoder)!
 
-I'm a **Full-Stack Web Developer** building modern web applications with:
+**Frontend-focused Full Stack Developer** building scalable, production-ready web applications.
 
-- 🌐 HTML | CSS | JavaScript | TypeScript
-- ⚛️ React.js 
-- 🧠 Node.js | Express.js 
-- 🛢 MongoDB | MySQL
-- 💅 Tailwind CSS | Bootstrap | Framer Motion
-- 🧪 Git | GitHub | REST APIs
-- 🧰 Postman | VS Code | Vite
-- 📦 NPM | Yarn
-- 📚 Learning: TypeScript | Next.js | Docker | PHP | Python | IoT | C++ | C | C# | Java | AI | Rag Agent | Senior Developer Skills
+I specialize in crafting clean user interfaces, robust backend systems, and practical solutions that solve real-world problems.
+
+- 🌐 Frontend: React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3
+- 🖌️ Styling: Tailwind CSS, Bootstrap, Framer Motion
+- 🧠 Backend: Node.js, Express.js 
+- 🛢  Databases: MongoDB, MySQL
+- 🧪 APIs: RESTful services, authentication systems
+- ⚒️ Tools: Git, GitHub, Postman, VS Code, Vite, NPM, Yarn
+- 📚 Learning: System Design | Docker | PHP | Python | IoT | C++ | C | C# | Java | AI | Rag Agent | Senior Developer Skills
 
 ---
 
@@ -23,12 +23,9 @@ I'm a **Full-Stack Web Developer** building modern web applications with:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
@@ -87,10 +84,12 @@ Here are some of my public repositories:
 
 <img align="left" height="155" src="https://avatars.githubusercontent.com/u/115109255?v=4" />
 
-I'm a self-motivated developer focused on building real-world web applications and learning new technologies.  
-I enjoy challenging myself with new projects and sharing what I learn along the way.
+I’m a developer who believes in building practical systems that work in the real world.
+I’ve delivered contract and referral-based projects, led small teams, and built full-stack applications from concept to deployment.
 
-> *"Building for the web with passion, curiosity, and caffeine."*
+I care about clarity, performance, and continuous improvement.
+
+> *"Rabbit on web building with passion, curiosity, and caffeine."*
 
 <div align="left">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=313nbvs7aa4duhg7ygxqzmwt3pvu&count=4" alt="Spotify recently played" />
