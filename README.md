@@ -37,20 +37,10 @@ I'm a **Full-Stack Web Developer** building modern web applications with:
 
 Here are some of my public repositories:
 
-- [**ShopEase**](https://github.com/RabbitDaCoder59/ShopEase)  
-  *JavaScript / React / Tailwind CSS*  
-  Modern e-commerce platform using React, Vite, and Tailwind CSS.  
-  [🌐 Live Demo](https://shopease-lilac-omega.vercel.app)
-
 - [**IrishCafe**](https://github.com/RabbitDaCoder59/IrishCafe)  
   *HTML / CSS / JavaScript*  
   Modern cafe website made with HTML, CSS, and JavaScript.  
   [🌐 Live Demo](https://irish-cafe.vercel.app)
-
-- [**TaskManager**](https://github.com/RabbitDaCoder/typescript-taskify)  
-  *TypeScript / React / Tailwind CSS*  
-  Simple task management application for creating, editing, and deleting tasks.  
-  [🌐 Live Demo](https://taskifymanagerr.netlify.app)
 
 - [**NoteApp**](https://github.com/RabbitDaCoder59/NoteApp)  
   *JavaScript / React / Tailwind CSS*  
@@ -61,20 +51,11 @@ Here are some of my public repositories:
   *JavaScript / Node.js / Express / MongoDB*  
   Backend API for NoteApp, handling authentication, note management, and file uploads.eplica fetching real movie data via API.
 
-- [**Fresco**](https://github.com/RabbitDaCoder/Fresco)  
-  *JavaScript / React*  
-  Modern food delivery app UI built with React.  
-  [🌐 Live Demo](https://fresco-sigma.vercel.app)
-
 - [**VTE Website**](https://github.com/RabbitDaCoder/VTE-website)  
   *HTML / Tailwind CSS / JavaScript / React*  
   A website for the Vocational and Technical Education Faculty at the University of Nigeria, Nsukka.  
   [🌐 Live Demo](https://vte-website.netlify.app)
 
-- [**RealEstate & Insurance Website**](https://github.com/RabbitDaCoder/ChyChyAgent)  
-  *JavaScript / React*  
-  A platform for listing and managing real estate and insurance services, with WhatsApp integration for inquiries.  
-  *(Live demo coming soon)*
 
 ---
 
