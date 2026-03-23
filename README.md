@@ -23,7 +23,7 @@ to IoT water automation and full-stack web platforms.*
 [![Portfolio](https://img.shields.io/badge/edehchinedu.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://edehchinedu.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edehchinedu20)
 [![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/EdehChinedu20)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:edehchinedu59@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@edehchinedu.dev)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RabbitDaCoder&style=flat-square&color=000000&label=PROFILE+VIEWS)
 
