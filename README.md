@@ -1,13 +1,6 @@
-﻿<div align="center">
+<div align="center">
 
-```
-██████╗  █████╗ ██████╗ ██████╗ ██╗████████╗██████╗  █████╗  ██████╗ ██████╗ ██████╗ ███████╗██████╗
-██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║╚══██╔══╝██╔══██╗██╔══██╗██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔══██╗
-██████╔╝███████║██████╔╝██████╔╝██║   ██║   ██║  ██║███████║██║     ██║   ██║██║  ██║█████╗  ██████╔╝
-██╔══██╗██╔══██║██╔══██╗██╔══██╗██║   ██║   ██║  ██║██╔══██║██║     ██║   ██║██║  ██║██╔══╝  ██╔══██╗
-██║  ██║██║  ██║██████╔╝██████╔╝██║   ██║   ██████╔╝██║  ██║╚██████╗╚██████╔╝██████╔╝███████╗██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝   ╚═╝   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;Blockchain+Developer;IoT+Builder;Product+Architect" alt="Typing SVG" />
 
 </div>
 
@@ -18,7 +11,7 @@
 **Full-Stack Engineer · Blockchain Developer · IoT Builder**
 
 *I build production systems — from Cairo smart contracts on Starknet
-to IoT water automation and full-stack web platforms.*
+ to IoT water automation and full-stack web platforms.*
 
 [![Portfolio](https://img.shields.io/badge/edehchinedu.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://edehchinedu.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edehchinedu20)
@@ -32,12 +25,13 @@ to IoT water automation and full-stack web platforms.*
 ---
 
 ## What I Ship
-```
-Web Applications    →  Full-stack PERN systems, dashboards, CMS platforms
-Blockchain          →  Cairo smart contracts on Starknet, DeFi automation
-IoT & Robotics      →  ESP32 hardware, sensor integration, embedded systems
-DevOps              →  Docker, GitHub Actions CI/CD, Vercel, Render
-AI Integration      →  LLM-powered features, prompt engineering, Gemini API
+
+```text
+Web Applications     → Full-stack PERN systems, dashboards, CMS platforms
+Blockchain           → Cairo smart contracts on Starknet, DeFi automation
+IoT & Robotics       → ESP32 hardware, sensor integration, embedded systems
+DevOps               → Docker, GitHub Actions CI/CD, Vercel, Render
+AI Integration       → LLM-powered features, prompt engineering, Gemini API
 ```
 
 ---
@@ -47,11 +41,20 @@ AI Integration      →  LLM-powered features, prompt engineering, Gemini API
 - **[StarkDCA](https://starkdca.xyz)** — Non-custodial Bitcoin DCA automation on Starknet.
   Cairo contracts · PERN backend · React + Starknet.js frontend.
 
-- **[HydroSense](https://github.com/RabbitDaCoder)** — IoT Smart Water Distribution System.
+- **[HydroSense](https://github.com/RabbitDaCoder)** — Smart water distribution and monitoring platform.
   ESP32 · Go backend · React TypeScript dashboards · GSM integration.
 
 - **[DroineTech](https://edehchinedu.dev)** — My agency delivering web, mobile, and
   blockchain solutions globally.
+
+- **NexusPay** — A financial operations platform for local businesses, with invoicing,
+  payment tracking, and analytics dashboards.
+
+- **WaterGrid AI** — Predictive water infrastructure monitoring using sensor data,
+  anomaly detection, and field reporting tools.
+
+- **CampusLoop** — Student engagement and admin portal for institutions, featuring
+  announcements, scheduling, and service workflows.
 
 ---
 
@@ -105,11 +108,14 @@ AI Integration      →  LLM-powered features, prompt engineering, Gemini API
 
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
-| **StarkDCA** | Automated Bitcoin DCA on Starknet. Non-custodial, on-chain, live. | Cairo · React · Node · PostgreSQL · Redis | [Live](https://starkdca.xyz) · [Repo](https://github.com/RabbitDaCoder/StarkDCA) |
-| **HydroSense** | IoT Smart Water Distribution System with real-time monitoring and billing | React · TypeScript · Go · ESP32 | [Repo](https://github.com/RabbitDaCoder) |
-| **Amanpulo Resort** | Full-stack luxury hotel reservation system with PDF receipts and admin dashboard | React 19 · Node · MongoDB · Nodemailer | [Live](https://amanpuloresort.com) · [Repo](https://github.com/RabbitDaCoder/Amanpulo) |
-| **Portfolio Platform** | Production portfolio with 3D design, AI blog writer, CMS, guestbook, and full backend | React · Three.js · PERN · Redis | [Live](https://edehchinedu.dev) |
-| **VTE Faculty Website** | Led a 6-person team. First version of UNN VTE faculty site. | React · Tailwind · Git | [Live](https://vte-website.netlify.app) |
+| **StarkDCA** | Automated Bitcoin DCA on Starknet. Non-custodial, on-chain, live. | Cairo · React · Node · PostgreSQL · Redis | [Live](https://starkdca.xyz) · [Repo](https://github.com/RabbitDaCoder) |
+| **HydroSense** | IoT smart water distribution system with real-time monitoring and billing. | React · TypeScript · Go · ESP32 | [Repo](https://github.com/RabbitDaCoder) |
+| **NexusPay** | Business finance and invoicing platform with dashboard analytics. | React · Node · PostgreSQL · Redis | [Demo](https://edehchinedu.dev) |
+| **WaterGrid AI** | Predictive water infrastructure control and operational analytics platform. | React · Go · Python · IoT | [Demo](https://edehchinedu.dev) |
+| **Amanpulo Resort** | Full-stack luxury hotel reservation system with PDF receipts and admin dashboard. | React 19 · Node · MongoDB · Nodemailer | [Live](https://amanpuloresort.com) · [Repo](https://github.com/RabbitDaCoder) |
+| **Portfolio Platform** | Production portfolio with 3D design, AI blog writer, CMS, and backend. | React · Three.js · PERN · Redis | [Live](https://edehchinedu.dev) |
+| **CampusLoop** | Student portal and institutional communication platform. | Next.js · Tailwind · PostgreSQL | [Demo](https://edehchinedu.dev) |
+| **VTE Faculty Website** | Led a 6-person team and delivered the first version of the UNN VTE faculty site. | React · Tailwind · Git | [Live](https://vte-website.netlify.app) |
 
 ---
 
@@ -117,20 +123,14 @@ AI Integration      →  LLM-powered features, prompt engineering, Gemini API
 
 <div align="center">
 
-<img height="160"
-  src="https://github-readme-stats.vercel.app/api?username=RabbitDaCoder&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&count_private=true"
-/>
-<img height="160"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabbitDaCoder&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&langs_count=8"
-/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=RabbitDaCoder&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&count_private=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabbitDaCoder&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&langs_count=8" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=RabbitDaCoder&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&currStreakNum=ffffff&sideNums=ffffff"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RabbitDaCoder&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=ffffff" alt="GitHub Streak" />
 
 </div>
 
@@ -140,9 +140,7 @@ AI Integration      →  LLM-powered features, prompt engineering, Gemini API
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=RabbitDaCoder&theme=github-compact&hide_border=true&bg_color=0d0d0d&color=888888&line=ffffff&point=ffffff&area=true&area_color=ffffff"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RabbitDaCoder&theme=github-compact&hide_border=true&bg_color=0d0d0d&color=888888&line=ffffff&point=ffffff&area=true&area_color=ffffff" alt="Contribution Graph" />
 
 </div>
 
@@ -153,18 +151,9 @@ AI Integration      →  LLM-powered features, prompt engineering, Gemini API
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/RabbitDaCoder/RabbitDaCoder/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/RabbitDaCoder/RabbitDaCoder/output/github-snake.svg"
-  />
-  <img
-    alt="github contribution snake"
-    src="https://raw.githubusercontent.com/RabbitDaCoder/RabbitDaCoder/output/github-snake-dark.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RabbitDaCoder/RabbitDaCoder/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RabbitDaCoder/RabbitDaCoder/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/RabbitDaCoder/RabbitDaCoder/output/github-snake-dark.svg" />
 </picture>
 
 </div>
