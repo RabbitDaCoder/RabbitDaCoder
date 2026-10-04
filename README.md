@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;Blockchain+Developer;IoT+Builder;Product+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;Blockchain+Developer;IoT+Builder;Product+Builder;AI+%26+Hardware+Engineer" />
 
 </div>
 
@@ -31,7 +31,7 @@ Web Applications     → Full-stack PERN systems, dashboards, CMS platforms
 Blockchain           → Cairo smart contracts on Starknet, DeFi automation
 IoT & Robotics       → ESP32 hardware, sensor integration, embedded systems
 DevOps               → Docker, GitHub Actions CI/CD, Vercel, Render
-AI Integration       → LLM-powered features, prompt engineering, Gemini API
+AI Integration      → LLM-powered features, prompt engineering, Gemini API
 ```
 
 ---
@@ -104,18 +104,46 @@ AI Integration       → LLM-powered features, prompt engineering, Gemini API
 
 ---
 
+## Currently Learning
+
+**Backend & Web Development**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+**Systems & Performance**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+**AI & Automation**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Dev-8A2BE2?style=flat-square&logo=ai&logoColor=white)
+
+**App & Hardware**
+
+![App Development](https://img.shields.io/badge/App_Dev-0EA5E9?style=flat-square&logo=appveyor&logoColor=white)
+![Hardware](https://img.shields.io/badge/Hardware_Dev-FF6B35?style=flat-square&logoColor=white)
+
+---
+
 ## Featured Projects
 
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
-| **StarkDCA** | Automated Bitcoin DCA on Starknet. Non-custodial, on-chain, live. | Cairo · React · Node · PostgreSQL · Redis | [Live](https://starkdca.xyz) · [Repo](https://github.com/RabbitDaCoder) |
-| **HydroSense** | IoT smart water distribution system with real-time monitoring and billing. | React · TypeScript · Go · ESP32 | [Repo](https://github.com/RabbitDaCoder) |
-| **NexusPay** | Business finance and invoicing platform with dashboard analytics. | React · Node · PostgreSQL · Redis | [Demo](https://edehchinedu.dev) |
-| **WaterGrid AI** | Predictive water infrastructure control and operational analytics platform. | React · Go · Python · IoT | [Demo](https://edehchinedu.dev) |
-| **Amanpulo Resort** | Full-stack luxury hotel reservation system with PDF receipts and admin dashboard. | React 19 · Node · MongoDB · Nodemailer | [Live](https://amanpuloresort.com) · [Repo](https://github.com/RabbitDaCoder) |
-| **Portfolio Platform** | Production portfolio with 3D design, AI blog writer, CMS, and backend. | React · Three.js · PERN · Redis | [Live](https://edehchinedu.dev) |
-| **CampusLoop** | Student portal and institutional communication platform. | Next.js · Tailwind · PostgreSQL | [Demo](https://edehchinedu.dev) |
-| **VTE Faculty Website** | Led a 6-person team and delivered the first version of the UNN VTE faculty site. | React · Tailwind · Git | [Live](https://vte-website.netlify.app) |
+| **[StarkDCA](https://github.com/RabbitDaCoder/StarkDCA)** | Automated Bitcoin DCA on Starknet. Non-custodial, on-chain, live. | TypeScript · Cairo · React · Node · PostgreSQL · Redis | [Live](https://starkdca.xyz) · [Repo](https://github.com/RabbitDaCoder/StarkDCA) |
+| **[Ozioma App](https://github.com/RabbitDaCoder/Ozioma-App)** | AI-powered church presentation system that listens to service audio and helps bring scripture references to screen. | Python · TypeScript · React | [Repo](https://github.com/RabbitDaCoder/Ozioma-App) |
+| **[Rag PDF AI Agent](https://github.com/RabbitDaCoder/Rag_PDF_AI_Agent)** | Retrieval-Augmented Generation chatbot for interactive PDF conversations with GROQ LLM. | Python · GROQ API | [Repo](https://github.com/RabbitDaCoder/Rag_PDF_AI_Agent) |
+| **[PCL-MAS](https://github.com/RabbitDaCoder/PCL-MAS)** | Personalized Collaborative Learning using a Multi-Agent System. | JavaScript · Python | [Repo](https://github.com/RabbitDaCoder/PCL-MAS) |
+| **[AC Lightbulb Project](https://github.com/RabbitDaCoder/AC_LIGHTBULB_PROJECT)** | C++-based AC-powered lighting system with efficient software logic and hardware interaction. | C++ | [Repo](https://github.com/RabbitDaCoder/AC_LIGHTBULB_PROJECT) |
+| **[ITMD510 Final Project](https://github.com/RabbitDaCoder/ITMD510FinalProject)** | Retail shop management desktop application with role-based access and MySQL persistence. | Java · JavaFX · MySQL | [Repo](https://github.com/RabbitDaCoder/ITMD510FinalProject) |
+| **[IrishCafe](https://github.com/RabbitDaCoder/IrishCafe)** | Modern cafe website showcasing menu and services. | HTML · CSS · JavaScript | [Repo](https://github.com/RabbitDaCoder/IrishCafe) |
+| **[ExpressLogistics](https://github.com/RabbitDaCoder/ExpressLogistics)** | Logistics and delivery management platform. | TypeScript · JavaScript · Express · Node | [Repo](https://github.com/RabbitDaCoder/ExpressLogistics) |
+| **[EcommerceWebApp](https://github.com/RabbitDaCoder/EcommerceWebApp)** | E-commerce site for browsing products, cart management, checkout, and admin features. | JavaScript | [Repo](https://github.com/RabbitDaCoder/EcommerceWebApp) |
+| **[ShopEase](https://github.com/RabbitDaCoder/ShopEase)** | Modern e-commerce platform with shopping experience and authentication flows. | React · Vite · Tailwind CSS · JavaScript | [Repo](https://github.com/RabbitDaCoder/ShopEase) |
+| **[NetflixClone](https://github.com/RabbitDaCoder/NetflixClone)** | Netflix-style UI replica. | HTML · CSS · JavaScript | [Repo](https://github.com/RabbitDaCoder/NetflixClone) |
+| **[VTE Website](https://github.com/RabbitDaCoder/VTE-website)** | Faculty website project delivered with a team in a university setting. | JavaScript · React · Tailwind | [Live](https://vte-website.netlify.app) · [Repo](https://github.com/RabbitDaCoder/VTE-website) |
 
 ---
 
@@ -123,14 +151,14 @@ AI Integration       → LLM-powered features, prompt engineering, Gemini API
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=RabbitDaCoder&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&count_private=true" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabbitDaCoder&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&langs_count=8" alt="Top Languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=RabbitDaCoder&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabbitDaCoder&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RabbitDaCoder&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=ffffff" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RabbitDaCoder&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888" />
 
 </div>
 
@@ -140,7 +168,7 @@ AI Integration       → LLM-powered features, prompt engineering, Gemini API
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RabbitDaCoder&theme=github-compact&hide_border=true&bg_color=0d0d0d&color=888888&line=ffffff&point=ffffff&area=true&area_color=ffffff" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RabbitDaCoder&theme=github-compact&hide_border=true&bg_color=0d0d0d&color=888888&line=ffffff&point=ffffff&area=true&area_color=ffffff" />
 
 </div>
 
