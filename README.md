@@ -47,15 +47,6 @@ AI Integration      → LLM-powered features, prompt engineering, Gemini API
 - **[DroineTech](https://edehchinedu.dev)** — My agency delivering web, mobile, and
   blockchain solutions globally.
 
-- **NexusPay** — A financial operations platform for local businesses, with invoicing,
-  payment tracking, and analytics dashboards.
-
-- **WaterGrid AI** — Predictive water infrastructure monitoring using sensor data,
-  anomaly detection, and field reporting tools.
-
-- **CampusLoop** — Student engagement and admin portal for institutions, featuring
-  announcements, scheduling, and service workflows.
-
 ---
 
 ## Stack
